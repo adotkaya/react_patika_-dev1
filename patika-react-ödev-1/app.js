@@ -1,3 +1,3 @@
 import getData from './getDataModule.js';
 
-getData(1);
+getData("1);
